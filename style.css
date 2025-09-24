@@ -1,4 +1,8 @@
 body {
-    background-color: #f194d6;
-
+    background-color: #f0cce3;
+color: rgb(203, 139, 219);
+} 
+header{
+    background-color: rgb(125, 240, 230);
+    height: 35px;
 }
