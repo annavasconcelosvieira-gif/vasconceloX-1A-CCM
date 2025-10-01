@@ -3,6 +3,16 @@ body {
 color: rgb(203, 139, 219);
 } 
 header{
-    background-color: rgb(125, 240, 230);
+    background-color: rgb(238, 205, 245);
     height: 35px;
+    
+    
+    margin-left: -20px;
+    margin-right: -20px;
+}
+header h3{
+    padding-left:15px;
+    color: darkgray;
+    text-align: center;
+    font-size: 30px;
 }
