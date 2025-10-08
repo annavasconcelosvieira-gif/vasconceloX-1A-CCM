@@ -1,18 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Licorice&display=swap');
+
+
+
+
 body {
     background-color: #f0cce3;
-color: rgb(203, 139, 219);
-} 
-header{
-    background-color: rgb(238, 205, 245);
-    height: 35px;
-    
-    
-    margin-left: -20px;
-    margin-right: -20px;
+    color: rgb(203, 139, 219);
+    margin: 0;
+
 }
-header h3{
-    padding-left:15px;
+
+header {
+    background-color: rgb(238, 205, 245);
+    padding: 10px;
+    border-bottom: 10px;
+
+}
+
+header h3 {
+
+    font-family: "Licorice", cursive;
+  font-weight: 400;
+  font-style: normal;
+    padding-left: 15px;
     color: darkgray;
     text-align: center;
     font-size: 30px;
+text-decoration: none;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 0 auto;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
